@@ -7,7 +7,5 @@ wdh0082
 ## wdh0082
 
 ## Favorite Professor
-$(YOUR_FAVORITE_PROFESSOR)
 Jacob Hochstetler
-## Jacob Hochstetler
-$(Jacob Hochstetler)
+
