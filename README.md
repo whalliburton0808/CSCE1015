@@ -1,5 +1,6 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
+<<<<<<< HEAD
 ## EUID
 
 
@@ -19,3 +20,6 @@ Hochstetler
 
 ## Favorite Professor
 Professor Hochstetler
+=======
+
+>>>>>>> 9f1a6ebe4b2a099b74d1c10d2b1333c9cbb14053
